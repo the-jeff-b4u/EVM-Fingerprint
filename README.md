@@ -52,9 +52,8 @@ This project demonstrates a *basic Electronic Voting Machine (EVM)* that uses *f
 - authenticateVoter(): Verifies voter and processes the vote.
 - displayResults(): Shows voting summary and winner.
 
-## Screenshots / Demo
-
-(You can include images of the setup and LCD display outputs)
+## Screenshots 
+![WhatsApp Image 2025-04-16 at 01 51 30_56eed9c4](https://github.com/user-attachments/assets/83c38b95-a585-4c0c-b516-89f0559e3515)
 
 ## License
 
